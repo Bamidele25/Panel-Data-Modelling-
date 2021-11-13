@@ -1,3 +1,10 @@
 # Panel-Data-Modelling-
-Panel Model of International Trade for West African Region  
+Panel Model of International Trade for West African Region 
+The Task focuses on the factors that influence international trade across West African Sub-Region using panel data estimation, were import, export, trade balance, and foreign direct investment are use as proxies for international trade while gross domestic production was use as proxy for measuring economy growth across the country used in the study. The study makes use of panel secondary data of ten West African countries over the period of 17 years (2000-2016)) obtained from World Bank (2011) and UNCTADTAT (2012)
+
 Preliminary analysis was carried out on the panel data in order to inspect the behavior of the data; also panel unit root was conducted in the project to ascertain stationary properties in the variables over the period of time considered before fitting the model. The task adopt Pooled OLS, Fixed Effect Model, and Random Effect Model to fit the panel regression model for the panel data sets, F-test was use to select between Pooled OLS model and Fixed effect model, Breush-Pagan LM test was use to known the best model between Pooled OLS and Random effect model, and finally Hausman specification test was used to decide between fixed effect model and random effect model. The study shows that fixed effect model is accurate for the study, and also GDP and FDI have positive significant impact on the international trade. Hence, the task recommends provision of a peaceful economic and political environment needed for local and foreign investors.
+
+![image](https://user-images.githubusercontent.com/84411373/141646966-121141f7-50d7-41a3-860f-66adcae6e98d.png)
+![image](https://user-images.githubusercontent.com/84411373/141646977-bc03d022-8605-4a94-bb41-202d774e854c.png)
+![image](https://user-images.githubusercontent.com/84411373/141647008-d1aef8e3-77bd-43bf-bd0a-80206867d2df.png)
+![image](https://user-images.githubusercontent.com/84411373/141647030-1f071bb0-03d9-46d5-95df-f83f2215f8b7.png)

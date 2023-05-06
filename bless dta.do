@@ -1,3 +1,4 @@
+#reading data into stata
 insheet using "c:\Users\LENOVO PC\Documents\mira.csv",clear
 encode country, gen(cont)
 xtset cont period, yearly
